@@ -7,5 +7,5 @@ sudo pacman -S blender cura arduino gimp inkscape
 sudo snap install musescore
 #### wine ####
 sudo pacman -S wine-staging winetricks wine-mono wine_gecko
-sudo pacman -S 
-
+###
+sudo snap install musescore
