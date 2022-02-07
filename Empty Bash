@@ -1,0 +1,11 @@
+#!/bin/bash
+
+sudo pacman -Syu 
+flatpak install flathub io.github.shiftey.Desktop
+flatpak install flathub md.obsidian.Obsidian
+sudo pacman -S blender cura arduino gimp inkscape
+sudo snap install musescore
+#### wine ####
+sudo pacman -S wine-staging winetricks wine-mono wine_gecko
+sudo pacman -S 
+
